@@ -5,6 +5,7 @@ public class Assignment1 {
 		// TODO Auto-generated method stub
 		System.out.println("Assignment 1");
 		System.out.print("Lets go");
+		System.out.print("This is a test file");
 	}
 
 }
